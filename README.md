@@ -1,4 +1,4 @@
-👋 Hi, I’m Lidiya Abebe
+👋 Hi, I’m Lidiya Abebe,
 A PhD student at University of Genoa, Robotics and Mechatronics
 - 📫 How to reach me:
   - [Email](lidiya.dejene@edu.unige.it)
