@@ -1,5 +1,5 @@
-👋 Hi, I’m Lidiya Abebe,
-A PhD student at University of Genoa, Robotics and Mechatronics
+👋 Hi, I’m Lidiya Abebe, 
+PhD student | University of Genoa | Robotics and Mechatronics | AI Enthusiast | Robot skill learning | Immitation Learning |
 - 📫 How to reach me:
   - [Email](lidiya.dejene@edu.unige.it)
   - [LinkedIn](www.linkedin.com/in/lidiya-abebe)
